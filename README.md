@@ -1,7 +1,7 @@
 EditButton
 ==========
 
-This is a addon to [Cockpit](https://github.com/aheinze/cockpit) that hacks in a convenient edit button for all regions presented.
+This is a addon to [Cockpit](https://github.com/aheinze/cockpit) that hacks in a convenient edit button for all regions presented (when your cockpit user is logged in).
 
 Example:
 ![Example](http://i.imgur.com/hxJUb4p.png)
