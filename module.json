@@ -1,0 +1,7 @@
+{
+    "name"       : "EditButton",
+    "version"    : "1.0",
+    "description": "Edit button for each region",
+    "homepage"   : "",
+    "license"    : "MIT"
+}
