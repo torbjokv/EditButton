@@ -11,7 +11,7 @@ if($app->module("auth")->getUser() && $app->module("auth")->hasaccess("Regions",
             $path = dirname(__FILE__);
             $cockpitFolder = explode('/',$path)[sizeof(explode('/',$path))-4];
             $regionId = $region['_id'];
-            $output .= $app->renderer()->file(
+            $output .= $app->renderer->file(
                 $path."/views/edit_button.php", 
                 compact(
                     'cockpitFolder', 
